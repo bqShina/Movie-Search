@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Movie-Search/static/css/main.a5bb4b97.chunk.css",
+    "main.js": "/Movie-Search/static/js/main.5a6a6500.chunk.js",
+    "main.js.map": "/Movie-Search/static/js/main.5a6a6500.chunk.js.map",
+    "runtime-main.js": "/Movie-Search/static/js/runtime-main.208cdd6d.js",
+    "runtime-main.js.map": "/Movie-Search/static/js/runtime-main.208cdd6d.js.map",
+    "static/css/2.2c9b9cbb.chunk.css": "/Movie-Search/static/css/2.2c9b9cbb.chunk.css",
+    "static/js/2.16149b36.chunk.js": "/Movie-Search/static/js/2.16149b36.chunk.js",
+    "static/js/2.16149b36.chunk.js.map": "/Movie-Search/static/js/2.16149b36.chunk.js.map",
+    "index.html": "/Movie-Search/index.html",
+    "static/css/2.2c9b9cbb.chunk.css.map": "/Movie-Search/static/css/2.2c9b9cbb.chunk.css.map",
+    "static/css/main.a5bb4b97.chunk.css.map": "/Movie-Search/static/css/main.a5bb4b97.chunk.css.map",
+    "static/js/2.16149b36.chunk.js.LICENSE.txt": "/Movie-Search/static/js/2.16149b36.chunk.js.LICENSE.txt",
+    "static/media/simple-line-icons.css": "/Movie-Search/static/media/Simple-Line-Icons.f1515a45.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.208cdd6d.js",
+    "static/css/2.2c9b9cbb.chunk.css",
+    "static/js/2.16149b36.chunk.js",
+    "static/css/main.a5bb4b97.chunk.css",
+    "static/js/main.5a6a6500.chunk.js"
+  ]
+}
