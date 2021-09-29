@@ -3,7 +3,7 @@ import { Col, Container, Row } from 'react-bootstrap'
 
 
 export const Footer = () => {
-    let deadLink = "#";
+    let deadLink = "https://bqshina.github.io/My-Portfolio/";
     return (
         <div className="footer-container">
             <footer>
