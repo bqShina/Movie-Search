@@ -1,5 +1,5 @@
 import React from 'react'
-const deadLink = '#';
+const deadLink = 'https://bqshina.github.io/My-Portfolio/';
 
 export const Heading = () => {
     return (
