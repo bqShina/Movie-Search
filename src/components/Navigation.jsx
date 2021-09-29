@@ -18,7 +18,7 @@ export const Navigation = () => {
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                         <Navbar.Collapse id="basic-navbar-nav">
                             <Nav className="mx-auto custom-item">
-                                <Nav.Link href="#" className="nav-item-link">Home</Nav.Link>                                
+                                <Nav.Link href="https://bqshina.github.io/My-Portfolio/" className="nav-item-link">Home</Nav.Link>                                
 
                                 <NavDropdown title="Pages" id="basic-nav-dropdown" className="nav-item-link">
                                     <NavDropdown.Item href="#">404 Page</NavDropdown.Item>
